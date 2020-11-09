@@ -7,9 +7,9 @@
 #############################################################################################
 # Distributions covered: Uniform, Exponential, Gamma,                                       #
 #                        Normal                                                             #
-# Content covered: 1 Probability Density Functions.                                         #
-#                  2 Cumulative Distribution Functions.                                     #
-#                  3 Moment Generating Functions.                                           #
+# Content covered:                                                                          #
+#                  1 Cumulative Distribution Functions.                                     #
+#                  2 Moment Generating Functions.                                           #
 #############################################################################################
 
 
